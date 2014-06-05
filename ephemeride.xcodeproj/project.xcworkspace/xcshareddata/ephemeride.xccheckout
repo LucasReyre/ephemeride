@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F44E750-CB3F-4732-834D-94DFD8510BA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ephemeride</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E3F2DCEA-BF46-4751-9BE3-E5EDFF8BD85E</key>
+		<string>../../ephemeride</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FKSI/ephemeride.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E3F2DCEA-BF46-4751-9BE3-E5EDFF8BD85E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E3F2DCEA-BF46-4751-9BE3-E5EDFF8BD85E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ephemeride</string>
+		</dict>
+	</array>
+</dict>
+</plist>
