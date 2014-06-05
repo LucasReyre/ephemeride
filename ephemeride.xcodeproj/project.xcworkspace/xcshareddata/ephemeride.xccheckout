@@ -5,11 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8F44E750-CB3F-4732-834D-94DFD8510BA5</string>
+	<string>C8EFFB3C-FA29-45A9-99F3-4EC05FD8F4AA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ephemeride</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46BD3E9C-2141-4355-89E0-A7144B9146C5</key>
+		<string>https://github.com/FKSI/ephemeride.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ephemeride.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>46BD3E9C-2141-4355-89E0-A7144B9146C5</key>
+		<string>../..</string>
 		<key>E3F2DCEA-BF46-4751-9BE3-E5EDFF8BD85E</key>
 		<string>../../ephemeride</string>
 	</dict>
@@ -18,9 +27,17 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E3F2DCEA-BF46-4751-9BE3-E5EDFF8BD85E</string>
+	<string>46BD3E9C-2141-4355-89E0-A7144B9146C5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46BD3E9C-2141-4355-89E0-A7144B9146C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ephemeride</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
